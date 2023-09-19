@@ -150,7 +150,9 @@ body {
  .redes li {
      padding: 10%;
  }
- 
+ .visually-hidden {
+    display: none;
+ }
  
  .icons{
   

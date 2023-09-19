@@ -10,7 +10,7 @@ Soy un desarrollador front-end con experiencia en el diseño y desarrollo de sit
 </p>
 Habilidades:
 
-<p>HTML: Tengoconocimiento de HTML5 y estoy familiarizado con las mejores prácticas para estructurar y marcar contenido web.</p>
+<p>HTML: Tengo conocimiento de HTML5 y estoy familiarizado con las mejores prácticas para estructurar y marcar contenido web.</p>
 
 <p>Tengo experiencia en la creación de diseños atractivos y responsivos. Estoy al tanto de las últimas tendencias en diseño web y sé cómo utilizar técnicas como Flexbox y Grid para lograr diseños flexibles y adaptables.</p>
 
@@ -27,7 +27,7 @@ Habilidades:
     <div className='skills' id='skills'>
 
       <p>Conocimientos</p> 
- <div className='logos'> 
+      <div className='logos'> 
  <li className="ri-html5-fill"></li>
  <li className="ri-css3-fill"></li>
  <li className="ri-javascript-fill"></li> 
@@ -35,7 +35,8 @@ Habilidades:
  <div className='logos'>
  <li className="ri-reactjs-line"></li> 
  <li className="ri-github-fill"></li>
- <li className="bootstrapcontainer bi bi-bootstrap-fill">asd</li>
+ <li className="bootstrapcontainer bi bi-bootstrap-fill"></li>
+ 
  
  </div>
 

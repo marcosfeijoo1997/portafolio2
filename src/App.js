@@ -5,6 +5,7 @@ import Descripcion from './componentes/Descripcion';
 import Portafolio from './componentes/Portafolio';
 import Header from './componentes/Header';
 import Navbar from './componentes/Navbar';
+import Redes from './componentes/Redes'
 
 
 function App() {
@@ -15,6 +16,8 @@ function App() {
     <Header/>
     <Descripcion/>
     <Portafolio/>
+    <Redes/>
+
 
  
     
