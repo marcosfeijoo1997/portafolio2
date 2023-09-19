@@ -1,6 +1,5 @@
 
 
-import Redes from './componentes/Redes'
 
 import Descripcion from './componentes/Descripcion';
 import Portafolio from './componentes/Portafolio';
@@ -16,7 +15,7 @@ function App() {
     <Header/>
     <Descripcion/>
     <Portafolio/>
-    <Redes/>
+
  
     
        
