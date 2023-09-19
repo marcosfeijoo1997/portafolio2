@@ -1,5 +1,5 @@
 import './style.css'
-import Fondo from '../assets/james-harrison-vpOeXr5wmR4-unsplash.jpg'
+
 const Header=()=>{
     return (
         <div className='presentacion' id='inicio'><div className='fondo'>
