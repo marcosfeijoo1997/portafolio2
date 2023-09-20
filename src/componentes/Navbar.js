@@ -7,7 +7,7 @@ const Navbar=()=>{
      setHamburguerMenu(hamburguerMenu==='hamburguer'?'cruz':'hamburguer')
 
     }
-    const navbarClass = `navbar ${hamburguerMenu === 'cruz' ? 'navbar': 'hidden'}`;
+    const navbarClass = `navbar ${hamburguerMenu === 'cruz' ? 'hidden': 'navbar'}`;
   
 
  
