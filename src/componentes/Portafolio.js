@@ -5,10 +5,11 @@ import './style.css'
 const Portafolio=()=>{
     return(<div className="portafolio" id="portafolio">
 <div className='imagenes'>
- 
 
-        <a href='https://mellow-pudding-37dd7c.netlify.app'>
-<img src={img1} alt='imagenes'/></a>
+
+       <div className='container'> <a href='https://mellow-pudding-37dd7c.netlify.app'>
+<img src={img1} className="imguno"alt='imagenes'/></a>
+</div>
 
       <a href='https://comfy-selkie-258d0f.netlify.app/'>
 <img src={img2} alt='imagenes'/></a>
