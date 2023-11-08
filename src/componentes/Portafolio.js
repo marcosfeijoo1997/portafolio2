@@ -5,9 +5,11 @@ import img4 from '../assets/Pagina4.png'
 import './style.css'
 const Portafolio=()=>{
     return(<div className="portafolio" id="portafolio">
-   
+           <h1>Mis proyectos</h1>
     <div className='imagenes'>
+
      <div className='card'>
+        
     <div className='front'>
             <a href='https://mellow-pudding-37dd7c.netlify.app'>
     <img src={img1} alt='imagenes'/></a></div>

@@ -158,7 +158,7 @@ body {
      font-style: oblique;
      font-weight: 900;
      color: white;
-     height: 100vh;
+ 
      margin: 0px;
      padding: 0px;
     
@@ -195,7 +195,7 @@ body {
      padding:15vh;
      position: relative;
     text-align: center;
-    height: 100vh;
+   
     margin:0px;
     padding-top: 10vw;
     padding-left: 2vw;
@@ -208,7 +208,7 @@ body {
  }
  .skills {
      color: white;
-     height: 100vh;
+     
      text-align: center;
      position: relative;
  
@@ -273,12 +273,15 @@ body {
  /*portafolio*/
  .portafolio {
 
-     display: flex;
-    
      align-items: center;
  
  }
- 
+ .portafolio h1 {
+    color: white;
+    text-align: center;
+    width: 100%;
+    padding-top: 10vh;
+ }
 
 .imagenes {
  display: grid;
@@ -311,7 +314,7 @@ body {
  .logos {
      list-style: none;
      display: flex;
-     font-size: 10vw;
+     font-size: 5vw;
    justify-content: center;
      margin: 0px;
      padding: 0px;
