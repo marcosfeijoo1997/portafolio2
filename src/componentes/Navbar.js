@@ -27,7 +27,7 @@ const Navbar=()=>{
                 <li><a href="#sobreMi">Sobre mi</a></li>
                 <li><a href="#skills">Conocimientos</a></li>
                 <li><a href="#portafolio">Portafolio</a></li>
-                <li><a href="#contact">Contact</a></li>
+                <li><a href="#contact">Contacto</a></li>
                 </ul>
               
                 
