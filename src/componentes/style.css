@@ -281,13 +281,16 @@ body {
     text-align: center;
     width: 100%;
     padding-top: 10vh;
+    margin-bottom:5% ;
  }
 
 .imagenes {
  display: grid;
  grid-template-columns: 50% 50%;
  gap: 5%;
- margin: 10%;
+ margin-left: 20%;
+ margin-right: 20%;
+
  justify-content: center;
 
 }
@@ -346,17 +349,22 @@ body {
      
  }
  
- .bootstrapcontainer {
-  
-     color: #712cf9;
-     display: flex;
-     align-items: center;
+ .ri-bootstrapcontainer {
+    color: #712cf9;
+
+
  
  }
  
- .bootstrapcontainer::before{
-     background-color: white;
-     border-radius: 100%;
+ .ri-bootstrapcontainer::before{
+
+    background-color: white;
+    border-radius: 60%;
+
+
+
+
+
  
   
      
@@ -370,7 +378,8 @@ body {
 }
 .contact h1 {
 text-align: center;
-margin: 5%;
+margin-top: 15%;
+margin-bottom: 5%;
 }
 .contact-list {
 
@@ -588,6 +597,11 @@ list-style: none;
   
   .card:hover .back {
     transform: rotateY(0deg);
+  }
+
+  .white
+  {
+    fill: white;
   }
   
 
