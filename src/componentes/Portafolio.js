@@ -30,9 +30,9 @@ const Portafolio=()=>{
     
     <div className='card'>
     <div className='front'>
-    <a href='laforjasyleindustrial.netlify.app'>
+    <a href='https://laforjasyleindustrial.netlify.app'>
     <img src={img2} alt='imagenes'/></a></div>
-    <div className='back'>  <a href="laforjasyleindustrial.netlify.app"><h1>Lenguajes usados</h1>
+    <div className='back'>  <a href="https://laforjasyleindustrial.netlify.app"><h1>Lenguajes usados</h1>
     <ul>
      <li className="ri-css3-fill"></li>
      <li className="ri-javascript-fill"></li> 
@@ -42,10 +42,10 @@ const Portafolio=()=>{
     
     <div className='card'>
     <div className='front'>
-    <a href='anglecalculator.netlify.app'>
+    <a href='https://anglecalculator.netlify.app'>
         <img src={img3} alt='imagenes'/>
     </a></div>
-    <div className='back'>  <a href='anglecalculator.netlify.app'><h1>Lenguajes usados</h1>
+    <div className='back'>  <a href='https://anglecalculator.netlify.app'><h1>Lenguajes usados</h1>
     <ul>
     <li className="ri-html5-fill"></li>
      <li className="ri-css3-fill"></li>
@@ -59,10 +59,10 @@ const Portafolio=()=>{
     
     <div className='card'>
     <div className='front'>
-    <a href='fourinline.netlify.app'>
+    <a href='https://fourinline.netlify.app'>
         <img src={img4} alt='imagenes'/>
     </a></div>
-    <div className='back'>  <a href="fourinline.netlify.app"><h1>Lenguajes usados</h1>
+    <div className='back'>  <a href="https://fourinline.netlify.app"><h1>Lenguajes usados</h1>
     <ul>
      <li className="ri-html5-fill"></li>
      <li className="ri-css3-fill"></li>
