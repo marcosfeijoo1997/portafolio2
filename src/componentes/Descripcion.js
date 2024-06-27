@@ -1,4 +1,16 @@
 import './style.css'
+import Javascript from '../assets/logosDev/js.png'
+import React from '../assets/logosDev/React_Logo_PNG_Vector__SVG__Free_Download-removebg-preview.png'
+import Node from '../assets/logosDev/nodelogo.png'
+import Hml from '../assets/logosDev/html.png'
+import Css from '../assets/logosDev/css.png'
+import Firebase from '../assets/logosDev/firebase.png'
+import Github from '../assets/logosDev/Github.png'
+
+
+
+
+
 
 const Descripcion=()=>{
 
@@ -29,16 +41,48 @@ Habilidades:
 
       <p>Conocimientos</p> 
       <div className='logos'> 
- <li className="ri-html5-fill"></li>
- <li className="ri-css3-fill"></li>
- <li className="ri-javascript-fill"></li> 
+ <li><img src={Hml}/>
+    <p>HTML</p>
+ </li>
+
+
+
+ 
+ <li>
+ <img src={Css}/>
+ <p>CSS</p>
+ </li>
+
+ <li>
+ <img src={Javascript}/>
+ <p>JavaScript</p></li> 
+ <li>
+    <img src={Firebase}/>
+    <p>Firebase</p></li>
+
+
+
+
+ 
+
+ 
+
  </div>
  <div className='logos'>
- <li className="ri-reactjs-line"></li> 
- <li className="ri-github-fill"></li>
- <li className="ri-bootstrapcontainer bi bi-bootstrap-fill"></li>
- <li>    <svg xmlns="http://www.w3.org/2000/svg" height="16" width="16" viewBox="0 0 512 512"><path d="M464 256A208 208 0 1 0 48 256a208 208 0 1 0 416 0zM0 256a256 256 0 1 1 512 0A256 256 0 1 1 0 256z"/></svg>
-</li>
+ <li>
+ <img src={React}/>
+ <p>React.js</p></li> 
+ <li>
+    <img src={Node}/>
+    <p>Node</p></li>
+ <li>
+    <img src={Github}/>
+    <p>Github</p></li>
+
+ 
+
+
+
  
  
  </div>

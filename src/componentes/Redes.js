@@ -12,7 +12,7 @@ const Redes=()=>{
           
           
             <li><a className="bi bi-github icons" href='https://github.com/marcosfeijoo1997'>  <span className="visually-hidden">GitHub</span></a></li>
-            <li><a className="bi bi-linkedin icons" href='https://wa.me/5491126394818'> <span className="visually-hidden">linkedin</span></a></li>
+            <li><a className="bi bi-linkedin icons" href='https://www.linkedin.com/in/marcos-feijoo-b80b2b175/'> <span className="visually-hidden">linkedin</span></a></li>
             <li><a className="bi bi-whatsapp icons"  href='https://wa.me/5491126394818'> <span className="visually-hidden">whatsapp</span></a></li>
             <li><a className="ri-mail-line icons" href="mailto:marcosfeijoo97@gmail.com"> <span className="visually-hidden">email</span></a></li>
                       

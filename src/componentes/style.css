@@ -324,15 +324,27 @@ body {
      
  }
  .logos li {
-     padding: 5%;
+     padding: 1rem;
+     margin: 0px;
+     width: 25%;
  }
+ .logos li p {
+    font-size: 2rem;
+    color: white;
+
+ }
+ .logos img {
+  width:30%;
+
+ }
+
  
  .ri-html5-fill {
      color:RGB(240, 101, 41)
  
  }
  .ri-css3-fill::before{
-  color:white;
+
   background-image: linear-gradient(to right, RGB(38, 77, 228)50%,	RGB(41, 101, 241) 50%);
  
    
@@ -351,24 +363,11 @@ body {
  
  .ri-bootstrapcontainer {
     color: #712cf9;
+    
 
 
  
  }
- 
- .ri-bootstrapcontainer::before{
-
-    background-color: white;
-    border-radius: 60%;
-
-
-
-
-
- 
-  
-     
-   }
 
 
 /*contact*/
@@ -567,29 +566,25 @@ text-align: center;
     transform: rotateY(180deg);
 position: absolute;
 top: 0;
-width: 100%;
 text-decoration: none;
 list-style: none;
    text-align: center;
   }
 
+.back ul {
+  display: flex;
+  list-style: none;
+
+}
+.back img {
+  width: 50%;
+}
+.back p {
+  width: 50%;
+  font-weight: 500;
+}
 
 
-  .back ul {
-    display: grid;
-    grid-template-columns: 25% 25% 25% 25%;
-
-    margin: 0;
-    padding: 0;
-
-    list-style: none;
-
-  }
-  .back ul li{
-
-   font-size: 3vw;
-    
-  }
 
   .card:hover .front {
     transform: rotateY(-180deg);
