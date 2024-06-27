@@ -5,11 +5,10 @@ import img4 from '../assets/Pagina4.png'
 import img5 from '../assets/bikeshop.png'
 import Javascript from '../assets/logosDev/js.png'
 import Reactlogo from '../assets/logosDev/React_Logo_PNG_Vector__SVG__Free_Download-removebg-preview.png'
-import Node from '../assets/logosDev/nodelogo.png'
+
 import Html from '../assets/logosDev/html.png'
 import Css from '../assets/logosDev/css.png'
 import Firebase from '../assets/logosDev/firebase.png'
-import Github from '../assets/logosDev/Github.png'
 import Bootstrap from '../assets/logosDev/Bootstrap.png'
 
 import './style.css'
