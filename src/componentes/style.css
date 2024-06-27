@@ -401,9 +401,14 @@ margin-bottom: 5%;
     
 }
 
- 
- 
-@media (max-width:768px) {
+
+   @media (max-width:1100px) {
+
+    .back ul p{
+      font-size: 0.7rem !important;
+
+    }
+   
     .name {
         font-size: 100%;
     }
@@ -523,6 +528,7 @@ margin-bottom: 5%;
    }
  
  }
+ 
 
 
 
@@ -552,7 +558,16 @@ text-align: center;
     backface-visibility: hidden; /* Oculta la parte trasera durante la rotación */
     transition: transform 0.5s;
 
+  
+
   }
+
+
+
+  
+  
+  
+  
   
   .front {
     transform: rotateY(0deg);
@@ -575,7 +590,7 @@ gap: 10px;
 .back ul {
   display: flex;
   list-style: none;
-  font-size: 0.7rem;
+
 
 
 
@@ -605,4 +620,5 @@ margin: auto;
   }
   
 
-
+ 
+  
