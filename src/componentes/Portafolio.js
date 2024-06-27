@@ -5,7 +5,6 @@ import img4 from '../assets/Pagina4.png'
 import img5 from '../assets/bikeshop.png'
 import Javascript from '../assets/logosDev/js.png'
 import Reactlogo from '../assets/logosDev/React_Logo_PNG_Vector__SVG__Free_Download-removebg-preview.png'
-
 import Html from '../assets/logosDev/html.png'
 import Css from '../assets/logosDev/css.png'
 import Firebase from '../assets/logosDev/firebase.png'
@@ -31,19 +30,19 @@ const Portafolio=()=>{
         <a href="https://ferreteriadufer.netlify.app"><h1>Lenguajes usados</h1>
     <ul>
      <li>
-        <img src={Css}></img>
+        <img src={Css}  alt='logos'></img>
         <p>Css</p>
      </li>
      <li>
-        <img src={Reactlogo}></img>
+        <img src={Reactlogo}  alt='logos'></img>
         <p>React</p>
      </li>
      <li>
-        <img src={Firebase}></img>
+        <img src={Firebase}  alt='logos'></img>
         <p>Firebase</p>
      </li>
      <li>
-        <img src={Bootstrap}></img>
+        <img src={Bootstrap}  alt='logos'></img>
         <p>Bootstrap</p>
      </li>
      
@@ -57,19 +56,19 @@ const Portafolio=()=>{
     <div className='back'>  <a href="https://laforjasyleindustrial.netlify.app"><h1>Lenguajes usados</h1>
     <ul>
      <li>
-        <img src={Css}></img>
+        <img src={Css}  alt='logos'></img>
         <p>Css</p>
      </li>
      <li>
-        <img src={Reactlogo}></img>
+        <img src={Reactlogo}  alt='logos'></img>
         <p>React</p>
      </li>
      <li>
-        <img src={Firebase}></img>
+        <img src={Firebase}  alt='logos'></img>
         <p>Firebase</p>
      </li>
      <li>
-        <img src={Bootstrap}></img>
+        <img src={Bootstrap}  alt='logos'></img>
         <p>Bootstrap</p>
      </li>
      
@@ -83,19 +82,19 @@ const Portafolio=()=>{
     <div className='back'>  <a href="https://bikeshoppedalcity.netlify.app"><h1>Lenguajes usados</h1>
     <ul>
      <li>
-        <img src={Css}></img>
+        <img src={Css}  alt='logos'></img>
         <p>Css</p>
      </li>
      <li>
-        <img src={Reactlogo}></img>
+        <img src={Reactlogo}  alt='logos'></img>
         <p>React</p>
      </li>
      <li>
-        <img src={Firebase}></img>
+        <img src={Firebase}  alt='logos'></img>
         <p>Firebase</p>
      </li>
      <li>
-        <img src={Bootstrap}></img>
+        <img src={Bootstrap}  alt='logos'></img>
         <p>Bootstrap</p>
      </li>
      
@@ -109,17 +108,17 @@ const Portafolio=()=>{
     </a></div>
     <div className='back'>  <a href='https://anglecalculator.netlify.app'><h1>Lenguajes usados</h1>
     <ul>  <li>
-        <img src={Html}></img>
+        <img src={Html}  alt='logos'></img>
         <p>Html</p>
      </li>
      <li>
-        <img src={Css}></img>
+        <img src={Css}  alt='logos'></img>
         <p>Css</p>
      </li>
    
    
      <li>
-        <img src={Javascript}></img>
+        <img src={Javascript}  alt='logos'></img>
         <p>JavaScript</p>
      </li>
      
@@ -133,17 +132,17 @@ const Portafolio=()=>{
     </a></div>
     <div className='back'>  <a href="https://fourinline.netlify.app"><h1>Lenguajes usados</h1>
     <ul>  <li>
-        <img src={Html}></img>
+        <img src={Html}  alt='logos'></img>
         <p>Html</p>
      </li>
      <li>
-        <img src={Css}></img>
+        <img src={Css}  alt='logos'></img>
         <p>Css</p>
      </li>
    
    
      <li>
-        <img src={Javascript}></img>
+        <img src={Javascript}  alt='logos'></img>
         <p>JavaScript</p>
      </li>
      

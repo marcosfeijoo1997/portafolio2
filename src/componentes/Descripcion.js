@@ -41,7 +41,7 @@ Habilidades:
 
       <p>Conocimientos</p> 
       <div className='logos'> 
- <li><img src={Hml}/>
+ <li><img src={Hml} alt='logos'/>
     <p>HTML</p>
  </li>
 
@@ -49,15 +49,15 @@ Habilidades:
 
  
  <li>
- <img src={Css}/>
+ <img src={Css}  alt='logos'/>
  <p>CSS</p>
  </li>
 
  <li>
- <img src={Javascript}/>
+ <img src={Javascript}  alt='logos'/>
  <p>JavaScript</p></li> 
  <li>
-    <img src={Firebase}/>
+    <img src={Firebase}  alt='logos'/>
     <p>Firebase</p></li>
 
 
@@ -70,13 +70,13 @@ Habilidades:
  </div>
  <div className='logos'>
  <li>
- <img src={React}/>
+ <img src={React}  alt='logos'/>
  <p>React.js</p></li> 
  <li>
-    <img src={Node}/>
+    <img src={Node}  alt='logos'/>
     <p>Node</p></li>
  <li>
-    <img src={Github}/>
+    <img src={Github}  alt='logos'/>
     <p>Github</p></li>
 
  
