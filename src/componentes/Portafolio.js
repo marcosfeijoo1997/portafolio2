@@ -3,10 +3,13 @@ import img2 from '../assets/Pagina2.png'
 import img3 from '../assets/Pagina3.png'
 import img4 from '../assets/Pagina4.png'
 import img5 from '../assets/bikeshop.png'
+import img6 from '../assets/Pagina5.png'
 import Javascript from '../assets/logosDev/js.png'
 import Reactlogo from '../assets/logosDev/React_Logo_PNG_Vector__SVG__Free_Download-removebg-preview.png'
 import Html from '../assets/logosDev/html.png'
 import Css from '../assets/logosDev/css.png'
+import Next from '../assets/logosDev/next.png'
+import Typescript from '../assets/logosDev/typescript-removebg-preview.png'
 import Firebase from '../assets/logosDev/firebase.png'
 import Bootstrap from '../assets/logosDev/Bootstrap.png'
 
@@ -151,7 +154,38 @@ const Portafolio=()=>{
     </div>
     
     
-    
+    <div className='card'>
+    <div className='front'>
+    <a href='https://hierroecom.netlify.app/productos'>
+        <img src={img6} alt='imagenes'/>
+    </a></div>
+    <div className='back'>  <a href="https://hierroecom.netlify.app/productos"><h1>Lenguajes usados</h1>
+    <ul> 
+     <li>
+        <img src={Css}  alt='logos'></img>
+        <p>Css</p>
+     </li>
+     <li>
+        <img src={Typescript}  alt='logos'></img>
+        <p>Typescript</p>
+     </li>
+   
+   
+     <li>
+        <img src={Next}  alt='logos'></img>
+        <p>Next</p>
+     </li>
+     <li>
+        <img src={Reactlogo}  alt='logos'></img>
+        <p>React</p>
+     </li>
+     <li>
+        <img src={Firebase}  alt='logos'></img>
+        <p>Firebase</p>
+     </li>
+     </ul> </a></div>
+     
+    </div>
 
     
     
